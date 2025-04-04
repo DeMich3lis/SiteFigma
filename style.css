@@ -1,0 +1,71 @@
+table{
+    width: 100%;
+    height: 10vh;
+}
+body{
+    background-color: #636498;
+    color: white;
+    margin: 0;
+}
+td{
+    
+}
+.cabecalho{
+    background-color: #636498;
+    font-family: 'Jeju Gothic', sans-serif;
+    font-size: 90%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.ha{
+    width: 70%;
+}
+.of{
+    width: 20%;
+}
+.carrinho{
+    width: 30%;
+    
+}
+.s{
+    text-decoration: underline;
+}
+.left{
+    padding-left: 3%;
+}
+.icon{
+    width: 10%;
+}
+.pdright{
+    padding-right: 20%;
+}
+.right{
+    text-align: right;
+}
+.text{
+    font-family: 'Inter', sans-serif;
+    color: black;
+    font-size: 100%;
+
+}
+.button{
+    background-color: #876196;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-size: 130%;
+}
+
+.center{
+    text-align: center;
+}
+.preto{
+    color: black;
+}
+.pBtn{
+    background-color: #876196;
+    border: none;
+}
